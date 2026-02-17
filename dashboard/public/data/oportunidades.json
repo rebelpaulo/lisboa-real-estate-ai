@@ -1,0 +1,212 @@
+{
+  "data_geracao": "2026-02-17T20:20:13.220028",
+  "total_analisado": 5,
+  "total_curadoria": 2,
+  "oportunidades": [
+    {
+      "id": "demo_002",
+      "fontes": [
+        "https://imovirtual.pt/imovel/67890"
+      ],
+      "tipo": "AssetType.PREDIO",
+      "localizacao": {
+        "morada": "Rua das Janelas Verdes 12",
+        "freguesia": "Estrela",
+        "concelho": "Lisboa",
+        "distrito": "Lisboa",
+        "codigo_postal": "",
+        "coordenadas": null
+      },
+      "area_m2": 420,
+      "preco_atual": 850000,
+      "categoria": "AssetCategory.ESTAGNADO",
+      "area_bruta": null,
+      "tipologia": "",
+      "quartos": 0,
+      "casas_banho": 0,
+      "ano_construcao": null,
+      "estado_conservacao": "",
+      "preco_original": 950000,
+      "historico_precos": [
+        {
+          "data": "2024-06-01 00:00:00",
+          "preco": 950000,
+          "evento": "listagem"
+        },
+        {
+          "data": "2024-09-01 00:00:00",
+          "preco": 900000,
+          "evento": "reducao"
+        },
+        {
+          "data": "2024-12-01 00:00:00",
+          "preco": 850000,
+          "evento": "reducao"
+        }
+      ],
+      "dias_no_mercado": 260,
+      "tempo_confirmado": true,
+      "metodo_tempo": "Histórico de preços",
+      "benchmark": {
+        "media_microzona": 2800,
+        "mediana_microzona": 2750,
+        "min_microzona": 2200,
+        "max_microzona": 3500,
+        "num_comparaveis": 6,
+        "raio_metros": 800,
+        "fonte_ine": 2650,
+        "notas_ine": "Prédios devolutos raros na zona"
+      },
+      "drivers_zona": {
+        "transportes": [
+          "Metro Santos",
+          "Bus 727, 732"
+        ],
+        "saude": [
+          "Hospital de Santa Maria"
+        ],
+        "educacao": [
+          "IST",
+          "Faculdade de Belas Artes"
+        ],
+        "emprego_comercio": [
+          "LX Factory",
+          "Docas",
+          "Centro de Alcântara"
+        ],
+        "projetos_urbanos": [
+          "Regeneração de Alcântara",
+          "Projeto de reabilitação urbana"
+        ],
+        "notas": "Zona em gentrificação acelerada"
+      },
+      "score_ineficiencia": 30,
+      "score_valorizacao": 25,
+      "score_liquidez": 15,
+      "score_risco": -3,
+      "score_qualidade": 5,
+      "score_total": 72,
+      "drivers_intervencao": [
+        "Conversão para 4 apartamentos T1/T2 (turismo/aluguel)",
+        "Reabilitação completa com aumento de área",
+        "Possibilidade de rooftop/terraço comum",
+        "Valorização estimada: €4500/m² pós-obra",
+        "Yield bruto estimado: 6-7%"
+      ],
+      "riscos": [
+        "Projeto de arquitetura complexo"
+      ],
+      "status": "Due Diligence",
+      "sintese_executiva": "Prédio devoluto em Alcântara com potencial de fracionamento. Preço/m² €2020 vs €2800 zona. LX Factory a 300m. Alto potencial valorização.",
+      "notas": "",
+      "data_analise": "2026-02-17 20:20:13.219878",
+      "analista": "Jarbas AI"
+    },
+    {
+      "id": "demo_001",
+      "fontes": [
+        "https://idealista.pt/imovel/12345"
+      ],
+      "tipo": "AssetType.T2",
+      "localizacao": {
+        "morada": "Rua de Belém 45, 2º Esq",
+        "freguesia": "Belém",
+        "concelho": "Lisboa",
+        "distrito": "Lisboa",
+        "codigo_postal": "",
+        "coordenadas": null
+      },
+      "area_m2": 85,
+      "preco_atual": 285000,
+      "categoria": "AssetCategory.ESTAGNADO",
+      "area_bruta": null,
+      "tipologia": "T2",
+      "quartos": 2,
+      "casas_banho": 1,
+      "ano_construcao": 1985,
+      "estado_conservacao": "Necessita obras",
+      "preco_original": 320000,
+      "historico_precos": [
+        {
+          "data": "2024-08-01 00:00:00",
+          "preco": 320000,
+          "evento": "listagem"
+        },
+        {
+          "data": "2024-10-15 00:00:00",
+          "preco": 305000,
+          "evento": "reducao"
+        },
+        {
+          "data": "2024-12-01 00:00:00",
+          "preco": 295000,
+          "evento": "reducao"
+        },
+        {
+          "data": "2025-01-15 00:00:00",
+          "preco": 285000,
+          "evento": "reducao"
+        }
+      ],
+      "dias_no_mercado": 195,
+      "tempo_confirmado": true,
+      "metodo_tempo": "Histórico de preços",
+      "benchmark": {
+        "media_microzona": 3800,
+        "mediana_microzona": 3750,
+        "min_microzona": 3200,
+        "max_microzona": 4500,
+        "num_comparaveis": 8,
+        "raio_metros": 600,
+        "fonte_ine": 3650,
+        "notas_ine": "Dados INE 2024 T2 Belém"
+      },
+      "drivers_zona": {
+        "transportes": [
+          "Elétrico 15E",
+          "Bus 728",
+          "Estação CP Belém"
+        ],
+        "saude": [
+          "Hospital Egas Moniz"
+        ],
+        "educacao": [
+          "Universidade Nova"
+        ],
+        "emprego_comercio": [
+          "Mosteiro dos Jerónimos",
+          "Torre de Belém",
+          "Pasteis de Belém"
+        ],
+        "projetos_urbanos": [
+          "Reabilitação zona ribeirinha",
+          "Parque Linear"
+        ],
+        "notas": "Zona turística com forte procura"
+      },
+      "score_ineficiencia": 30,
+      "score_valorizacao": 25,
+      "score_liquidez": 20,
+      "score_risco": -9,
+      "score_qualidade": 5,
+      "score_total": 71,
+      "drivers_intervencao": [
+        "Renovação completa de cozinha e casas de banho",
+        "Substituição de caixilharia por PVC duplo",
+        "Pavimentos flutuantes em madeira",
+        "Sistema de ar condicionado",
+        "Estima-se valorização pós-obra: €4200/m²"
+      ],
+      "riscos": [
+        "Condomínio antigo sem elevador",
+        "Obras necessárias na fachada do prédio",
+        "Estacionamento difícil na zona"
+      ],
+      "status": "Observação",
+      "sintese_executiva": "T2 em Belém estagnado há 195 dias com 3 reduções (11% total). Preço/m² €3350 vs média €3800. Potencial de valorização €400/m² após renovação. Zona turística com liquidez garantida.",
+      "notas": "",
+      "data_analise": "2026-02-17 20:20:13.219847",
+      "analista": "Jarbas AI"
+    }
+  ]
+}
