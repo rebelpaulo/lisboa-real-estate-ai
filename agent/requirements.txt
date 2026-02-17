@@ -1,0 +1,24 @@
+# Agent - Lisboa Real Estate AI
+
+## Dependências
+
+```
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+pandas>=2.1.0
+sqlite3
+schedule>=1.2.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+aiohttp>=3.9.0
+asyncio
+playwright>=1.40.0
+```
+
+## Instalação
+
+```bash
+pip install -r requirements.txt
+playwright install
+```
