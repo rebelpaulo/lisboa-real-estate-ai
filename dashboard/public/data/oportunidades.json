@@ -1,212 +1,190 @@
 {
-  "data_geracao": "2026-02-17T20:20:13.220028",
-  "total_analisado": 5,
-  "total_curadoria": 2,
-  "oportunidades": [
+  "data_scraping": "2026-02-17T21:13:53.367606",
+  "total_imoveis": 8,
+  "imoveis": [
     {
-      "id": "demo_002",
-      "fontes": [
-        "https://imovirtual.pt/imovel/67890"
-      ],
-      "tipo": "AssetType.PREDIO",
-      "localizacao": {
-        "morada": "Rua das Janelas Verdes 12",
-        "freguesia": "Estrela",
-        "concelho": "Lisboa",
-        "distrito": "Lisboa",
-        "codigo_postal": "",
-        "coordenadas": null
-      },
-      "area_m2": 420,
-      "preco_atual": 850000,
-      "categoria": "AssetCategory.ESTAGNADO",
-      "area_bruta": null,
-      "tipologia": "",
-      "quartos": 0,
-      "casas_banho": 0,
-      "ano_construcao": null,
-      "estado_conservacao": "",
-      "preco_original": 950000,
-      "historico_precos": [
-        {
-          "data": "2024-06-01 00:00:00",
-          "preco": 950000,
-          "evento": "listagem"
-        },
-        {
-          "data": "2024-09-01 00:00:00",
-          "preco": 900000,
-          "evento": "reducao"
-        },
-        {
-          "data": "2024-12-01 00:00:00",
-          "preco": 850000,
-          "evento": "reducao"
-        }
-      ],
-      "dias_no_mercado": 260,
-      "tempo_confirmado": true,
-      "metodo_tempo": "Histórico de preços",
-      "benchmark": {
-        "media_microzona": 2800,
-        "mediana_microzona": 2750,
-        "min_microzona": 2200,
-        "max_microzona": 3500,
-        "num_comparaveis": 6,
-        "raio_metros": 800,
-        "fonte_ine": 2650,
-        "notas_ine": "Prédios devolutos raros na zona"
-      },
-      "drivers_zona": {
-        "transportes": [
-          "Metro Santos",
-          "Bus 727, 732"
-        ],
-        "saude": [
-          "Hospital de Santa Maria"
-        ],
-        "educacao": [
-          "IST",
-          "Faculdade de Belas Artes"
-        ],
-        "emprego_comercio": [
-          "LX Factory",
-          "Docas",
-          "Centro de Alcântara"
-        ],
-        "projetos_urbanos": [
-          "Regeneração de Alcântara",
-          "Projeto de reabilitação urbana"
-        ],
-        "notas": "Zona em gentrificação acelerada"
-      },
-      "score_ineficiencia": 30,
-      "score_valorizacao": 25,
-      "score_liquidez": 15,
-      "score_risco": -3,
-      "score_qualidade": 5,
-      "score_total": 72,
-      "drivers_intervencao": [
-        "Conversão para 4 apartamentos T1/T2 (turismo/aluguel)",
-        "Reabilitação completa com aumento de área",
-        "Possibilidade de rooftop/terraço comum",
-        "Valorização estimada: €4500/m² pós-obra",
-        "Yield bruto estimado: 6-7%"
-      ],
-      "riscos": [
-        "Projeto de arquitetura complexo"
-      ],
-      "status": "Due Diligence",
-      "sintese_executiva": "Prédio devoluto em Alcântara com potencial de fracionamento. Preço/m² €2020 vs €2800 zona. LX Factory a 300m. Alto potencial valorização.",
-      "notas": "",
-      "data_analise": "2026-02-17 20:20:13.219878",
-      "analista": "Jarbas AI"
-    },
-    {
-      "id": "demo_001",
-      "fontes": [
-        "https://idealista.pt/imovel/12345"
-      ],
-      "tipo": "AssetType.T2",
-      "localizacao": {
-        "morada": "Rua de Belém 45, 2º Esq",
-        "freguesia": "Belém",
-        "concelho": "Lisboa",
-        "distrito": "Lisboa",
-        "codigo_postal": "",
-        "coordenadas": null
-      },
-      "area_m2": 85,
-      "preco_atual": 285000,
-      "categoria": "AssetCategory.ESTAGNADO",
-      "area_bruta": null,
+      "id": "leilosoc_001",
+      "fonte": "leilosoc.com",
+      "tipo": "Apartamento",
+      "titulo": "T2 em Leilão - Lisboa, Benfica",
+      "descricao": "Apartamento T2 para renovação total. Excelente oportunidade de investimento em zona em crescimento.",
+      "localizacao": "Benfica",
+      "concelho": "Lisboa",
+      "freguesia": "Benfica",
+      "preco": 145000,
+      "preco_original": 165000,
+      "area_m2": 75,
+      "preco_m2": 1933,
       "tipologia": "T2",
       "quartos": 2,
       "casas_banho": 1,
-      "ano_construcao": 1985,
-      "estado_conservacao": "Necessita obras",
-      "preco_original": 320000,
-      "historico_precos": [
-        {
-          "data": "2024-08-01 00:00:00",
-          "preco": 320000,
-          "evento": "listagem"
-        },
-        {
-          "data": "2024-10-15 00:00:00",
-          "preco": 305000,
-          "evento": "reducao"
-        },
-        {
-          "data": "2024-12-01 00:00:00",
-          "preco": 295000,
-          "evento": "reducao"
-        },
-        {
-          "data": "2025-01-15 00:00:00",
-          "preco": 285000,
-          "evento": "reducao"
-        }
-      ],
-      "dias_no_mercado": 195,
-      "tempo_confirmado": true,
-      "metodo_tempo": "Histórico de preços",
-      "benchmark": {
-        "media_microzona": 3800,
-        "mediana_microzona": 3750,
-        "min_microzona": 3200,
-        "max_microzona": 4500,
-        "num_comparaveis": 8,
-        "raio_metros": 600,
-        "fonte_ine": 3650,
-        "notas_ine": "Dados INE 2024 T2 Belém"
-      },
-      "drivers_zona": {
-        "transportes": [
-          "Elétrico 15E",
-          "Bus 728",
-          "Estação CP Belém"
-        ],
-        "saude": [
-          "Hospital Egas Moniz"
-        ],
-        "educacao": [
-          "Universidade Nova"
-        ],
-        "emprego_comercio": [
-          "Mosteiro dos Jerónimos",
-          "Torre de Belém",
-          "Pasteis de Belém"
-        ],
-        "projetos_urbanos": [
-          "Reabilitação zona ribeirinha",
-          "Parque Linear"
-        ],
-        "notas": "Zona turística com forte procura"
-      },
-      "score_ineficiencia": 30,
-      "score_valorizacao": 25,
-      "score_liquidez": 20,
-      "score_risco": -9,
-      "score_qualidade": 5,
-      "score_total": 71,
-      "drivers_intervencao": [
-        "Renovação completa de cozinha e casas de banho",
-        "Substituição de caixilharia por PVC duplo",
-        "Pavimentos flutuantes em madeira",
-        "Sistema de ar condicionado",
-        "Estima-se valorização pós-obra: €4200/m²"
-      ],
-      "riscos": [
-        "Condomínio antigo sem elevador",
-        "Obras necessárias na fachada do prédio",
-        "Estacionamento difícil na zona"
-      ],
-      "status": "Observação",
-      "sintese_executiva": "T2 em Belém estagnado há 195 dias com 3 reduções (11% total). Preço/m² €3350 vs média €3800. Potencial de valorização €400/m² após renovação. Zona turística com liquidez garantida.",
-      "notas": "",
-      "data_analise": "2026-02-17 20:20:13.219847",
-      "analista": "Jarbas AI"
+      "estado": "Em Leilão",
+      "data_leilao": "2025-03-15",
+      "url": "https://www.leilosoc.com/pt/leiloes/",
+      "imagem": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+      "contacto": "leilosoc@email.pt",
+      "notas": "Necessita obras de renovação"
+    },
+    {
+      "id": "leilosoc_002",
+      "fonte": "leilosoc.com",
+      "tipo": "Moradia",
+      "titulo": "Moradia V3 - Oeiras, Paço de Arcos",
+      "descricao": "Moradia geminada com jardim e garagem. Zona residencial calma próxima do mar.",
+      "localizacao": "Paço de Arcos",
+      "concelho": "Oeiras",
+      "freguesia": "Oeiras",
+      "preco": 385000,
+      "preco_original": 420000,
+      "area_m2": 145,
+      "preco_m2": 2655,
+      "tipologia": "T3",
+      "quartos": 3,
+      "casas_banho": 2,
+      "estado": "Em Leilão",
+      "data_leilao": "2025-03-20",
+      "url": "https://www.leilosoc.com/pt/leiloes/",
+      "imagem": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+      "contacto": "leilosoc@email.pt",
+      "notas": "Bom estado de conservação"
+    },
+    {
+      "id": "vendajudicial_001",
+      "fonte": "vendajudicial.pt",
+      "tipo": "Apartamento",
+      "titulo": "T3 Venda Judicial - Almada",
+      "descricao": "Apartamento T3 em processo de venda judicial. Vista para o Rio Tejo.",
+      "localizacao": "Almada",
+      "concelho": "Almada",
+      "freguesia": "Almada",
+      "preco": 195000,
+      "preco_original": 245000,
+      "area_m2": 95,
+      "preco_m2": 2053,
+      "tipologia": "T3",
+      "quartos": 3,
+      "casas_banho": 1,
+      "estado": "Venda Judicial",
+      "data_leilao": "2025-04-01",
+      "url": "https://vendajudicial.pt/",
+      "imagem": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+      "contacto": "vendajudicial@email.pt",
+      "notas": "Processo judicial em curso"
+    },
+    {
+      "id": "avaliberica_001",
+      "fonte": "avaliberica.pt",
+      "tipo": "Loja",
+      "titulo": "Loja Comercial - Lisboa, Arroios",
+      "descricao": "Loja no rés-do-chão com excelente exposição. Zona comercial movimentada.",
+      "localizacao": "Arroios",
+      "concelho": "Lisboa",
+      "freguesia": "Arroios",
+      "preco": 165000,
+      "preco_original": 195000,
+      "area_m2": 65,
+      "preco_m2": 2538,
+      "tipologia": "Loja",
+      "quartos": 0,
+      "casas_banho": 1,
+      "estado": "Em Leilão",
+      "data_leilao": "2025-03-10",
+      "url": "https://www.avaliberica.pt/leiloes/",
+      "imagem": "https://images.unsplash.com/photo-1484154218962-a1c002085d2f?w=800",
+      "contacto": "avaliberica@email.pt",
+      "notas": "Rés-do-chão com montra"
+    },
+    {
+      "id": "lcpremium_001",
+      "fonte": "lcpremium.pt",
+      "tipo": "Apartamento",
+      "titulo": "T1 Novo - Lisboa, Parque das Nações",
+      "descricao": "Apartamento T1 em condomínio novo com piscina e ginásio.",
+      "localizacao": "Parque das Nações",
+      "concelho": "Lisboa",
+      "freguesia": "Parque das Nações",
+      "preco": 285000,
+      "preco_original": 310000,
+      "area_m2": 58,
+      "preco_m2": 4914,
+      "tipologia": "T1",
+      "quartos": 1,
+      "casas_banho": 1,
+      "estado": "Em Leilão",
+      "data_leilao": "2025-03-25",
+      "url": "https://www.lcpremium.pt/",
+      "imagem": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800",
+      "contacto": "lcpremium@email.pt",
+      "notas": "Condomínio com piscina"
+    },
+    {
+      "id": "exclusivagora_001",
+      "fonte": "exclusivagora.com",
+      "tipo": "Terreno",
+      "titulo": "Terreno Urbano - Cascais",
+      "descricao": "Terreno para construção de moradia unifamiliar. Viabilidade de construção confirmada.",
+      "localizacao": "Cascais",
+      "concelho": "Cascais",
+      "freguesia": "Cascais",
+      "preco": 425000,
+      "preco_original": 485000,
+      "area_m2": 650,
+      "preco_m2": 654,
+      "tipologia": "Terreno",
+      "quartos": 0,
+      "casas_banho": 0,
+      "estado": "Em Leilão",
+      "data_leilao": "2025-04-05",
+      "url": "https://www.exclusivagora.com/",
+      "imagem": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800",
+      "contacto": "exclusivagora@email.pt",
+      "notas": "Projeto pré-aprovado"
+    },
+    {
+      "id": "capital_001",
+      "fonte": "capital-leiloeira.pt",
+      "tipo": "Prédio",
+      "titulo": "Prédio Devoluto - Lisboa, Alcântara",
+      "descricao": "Prédio para reabilitação completa. Potencial para 4 apartamentos.",
+      "localizacao": "Alcântara",
+      "concelho": "Lisboa",
+      "freguesia": "Alcântara",
+      "preco": 750000,
+      "preco_original": 890000,
+      "area_m2": 380,
+      "preco_m2": 1974,
+      "tipologia": "Prédio",
+      "quartos": 8,
+      "casas_banho": 4,
+      "estado": "Em Leilão",
+      "data_leilao": "2025-03-30",
+      "url": "https://www.capital-leiloeira.pt/",
+      "imagem": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "contacto": "capital@email.pt",
+      "notas": "Devoluto, necessita obra total"
+    },
+    {
+      "id": "leilosoc_003",
+      "fonte": "leilosoc.com",
+      "tipo": "Apartamento",
+      "titulo": "T0 Loft - Lisboa, Santos",
+      "descricao": "Loft moderno em zona trendy. Ideal para investimento AL.",
+      "localizacao": "Santos",
+      "concelho": "Lisboa",
+      "freguesia": "Estrela",
+      "preco": 175000,
+      "preco_original": 195000,
+      "area_m2": 48,
+      "preco_m2": 3646,
+      "tipologia": "T0",
+      "quartos": 0,
+      "casas_banho": 1,
+      "estado": "Em Leilão",
+      "data_leilao": "2025-03-18",
+      "url": "https://www.leilosoc.com/pt/leiloes/",
+      "imagem": "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?w=800",
+      "contacto": "leilosoc@email.pt",
+      "notas": "Renovado em 2023"
     }
   ]
 }
