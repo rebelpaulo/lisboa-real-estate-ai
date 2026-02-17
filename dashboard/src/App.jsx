@@ -6,7 +6,7 @@ import {
   Target, Zap, Eye, Heart, Share2, Download, Settings
 } from 'lucide-react';
 import { LineChart, Line, AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, BarChart, Bar, PieChart as RePieChart, Pie, Cell } from 'recharts';
-import { mockProperties, mockMarketTrends, mockPriceDistribution } from '../data/mockData';
+import { mockProperties, mockMarketTrends, mockPriceDistribution } from './data/mockData';
 
 // ============================================
 // DESIGN SYSTEM - Cores e Estilos
