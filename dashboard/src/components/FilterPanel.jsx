@@ -91,13 +91,13 @@ function FilterPanel({ filters, onChange, onClose }) {
           </div>
           <div className="quick-filters">
             <button onClick={() => { handleChange('minDays', 90); handleChange('maxDays', null); }}>
-              > 3 meses
+              {'>'} 3 meses
             </button>
             <button onClick={() => { handleChange('minDays', 180); handleChange('maxDays', null); }}>
-              > 6 meses
+              {'>'} 6 meses
             </button>
             <button onClick={() => { handleChange('minDays', 365); handleChange('maxDays', null); }}>
-              > 1 ano
+              {'>'} 1 ano
             </button>
           </div>
         </div>
