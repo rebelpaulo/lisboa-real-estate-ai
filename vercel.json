@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "name": "lisboa-real-estate-ai",
-  "framework": "vite",
-  "buildCommand": "npm install && npm run build",
-  "outputDirectory": "dist",
-  "installCommand": "npm install"
-}
