@@ -2,13 +2,8 @@
   "version": 2,
   "name": "lisboa-real-estate-ai",
   "framework": "vite",
-  "buildCommand": "cd dashboard && npm run build",
-  "outputDirectory": "dashboard/dist",
-  "installCommand": "cd dashboard && npm install",
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "rootDirectory": "dashboard"
 }
