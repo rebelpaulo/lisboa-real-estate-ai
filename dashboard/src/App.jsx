@@ -6,7 +6,46 @@ import {
   Target, Zap, Eye, Heart, Share2, Download, Settings
 } from 'lucide-react';
 import { LineChart, Line, AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, BarChart, Bar, PieChart as RePieChart, Pie, Cell } from 'recharts';
-import { mockProperties, mockMarketTrends, mockPriceDistribution } from './data/mockData';
+import PropertyModal from './components/PropertyModal';
+
+// Carregar dados reais ou mock
+const loadProperties = async () => {
+  try {
+    const response = await fetch('/data/properties.json');
+    const data = await response.json();
+    return data.properties || [];
+  } catch (e) {
+    // Fallback para mock data
+    return [
+      {
+        id: '1',
+        title: 'T2 em Leilão - Lisboa, Benfica',
+        location: 'Benfica',
+        parish: 'Benfica',
+        price: 145000,
+        originalPrice: 165000,
+        area: 75,
+        typology: 'T2',
+        bedrooms: 2,
+        bathrooms: 1,
+        category: 'A',
+        opportunityScore: 72,
+        daysOnMarket: 45,
+        priceDrops: 1,
+        vsMarket: -12,
+        images: ['https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800'],
+        source: 'leilosoc.com',
+        url: 'https://www.leilosoc.com/pt/leiloes/',
+        description: 'Apartamento T2 para renovação total. Excelente oportunidade de investimento.',
+        estado: 'Em Leilão',
+        dataLeilao: '2025-03-15',
+        contacto: 'leilosoc@email.pt',
+        notas: 'Necessita obras de renovação',
+        precoM2: 1933
+      }
+    ];
+  }
+};
 
 // ============================================
 // DESIGN SYSTEM - Cores e Estilos
