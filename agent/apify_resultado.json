@@ -1,0 +1,60 @@
+[
+  {
+    "url": "https://www.leilosoc.com/pt/leiloes/?categoria=imoveis",
+    "crawl": {
+      "loadedUrl": "https://leilosoc.com/pt/leiloes/?categoria=imoveis",
+      "loadedTime": "2026-02-17T18:33:44.014Z",
+      "referrerUrl": "https://www.leilosoc.com/pt/leiloes/?categoria=imoveis",
+      "httpStatusCode": 404,
+      "depth": 0,
+      "contentType": "text/html; charset=utf-8"
+    },
+    "metadata": {
+      "canonicalUrl": "https://leilosoc.com/pt-pt/404/",
+      "title": "Leilosoc",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "en",
+      "openGraph": [
+        {
+          "property": "og:title",
+          "content": "Leilosoc"
+        },
+        {
+          "property": "og:url",
+          "content": "https://leilosoc.com/pt-pt/404/"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Smart Auction"
+        }
+      ],
+      "jsonLd": null,
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "9cf75fee98074bbb-BUF",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 17 Feb 2026 18:33:43 GMT",
+        "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=KTIYZLiO6Uwyx1ETpraoy0pSQO0qex6hmEbge18xgHbsriz5YX%2BogBEizRpChxhjszTqwpew5%2BTEX30qrgnkDLNvPb3ykuhhXn0%3D\"}]}",
+        "server": "cloudflare",
+        "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=8,cfOrigin;dur=370",
+        "vary": "Accept-Encoding",
+        "x-nextjs-cache": "HIT"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Leilosoc\nEste site utiliza cookies para permitir uma melhor experiência por parte do utilizador. Ao navegar no site estará a consentir com a Política de Cookies.",
+    "markdown": "# Leilosoc\n\nEste site utiliza cookies para permitir uma melhor experiência por parte do utilizador. Ao navegar no site estará a consentir com a [Política de Cookies](https://www.leilosoc.com/pt/politica-de-privacidade/).",
+    "debug": {
+      "requestHandlerMode": "http"
+    }
+  }
+]

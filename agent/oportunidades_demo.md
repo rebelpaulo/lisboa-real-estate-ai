@@ -1,6 +1,6 @@
 # 🏠 Curadoria de Oportunidades Imobiliárias
 
-**Data:** 17/02/2026 20:20  
+**Data:** 18/02/2026 17:01  
 **Total Analisado:** 5 ativos  
 **Curadoria Final:** 2 ativos
 

@@ -7,6 +7,7 @@ import {
 } from 'lucide-react';
 import { LineChart, Line, AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, BarChart, Bar, PieChart as RePieChart, Pie, Cell } from 'recharts';
 import PropertyModal from './components/PropertyModal';
+import { realProperties, realMarketTrends, realPriceDistribution } from './data/realData';
 
 // Carregar dados reais ou mock
 const loadProperties = async () => {
@@ -517,7 +518,7 @@ const AnalyticsPanel = () => {
         <div className="analytics-card">
           <h4>Tendência de Preços</h4>
           <ResponsiveContainer width="100%" height={200}>
-            <AreaChart data={mockMarketTrends}>
+            <AreaChart data={realMarketTrends}>
               <defs>
                 <linearGradient id="colorPrice" x1="0" y1="0" x2="0" y2="1">
                   <stop offset="5%" stopColor={colors.primary} stopOpacity={0.3}/>
@@ -541,7 +542,7 @@ const AnalyticsPanel = () => {
           <ResponsiveContainer width="100%" height={200}>
             <RePieChart>
               <Pie
-                data={mockPriceDistribution}
+                data={realPriceDistribution}
                 cx="50%"
                 cy="50%"
                 innerRadius={60}
@@ -549,7 +550,7 @@ const AnalyticsPanel = () => {
                 paddingAngle={5}
                 dataKey="value"
               >
-                {mockPriceDistribution.map((entry, index) => (
+                {realPriceDistribution.map((entry, index) => (
                   <Cell key={`cell-${index}`} fill={[colors.catA, colors.catB, colors.catC, colors.catD][index]} />
                 ))}
               </Pie>
@@ -581,7 +582,7 @@ function App() {
   const [searchQuery, setSearchQuery] = useState('');
 
   const filteredProperties = useMemo(() => {
-    return mockProperties.filter(p => {
+    return realProperties.filter(p => {
       if (filters.category && p.category !== filters.category) return false;
       if (p.opportunityScore < filters.minScore) return false;
       if (filters.minDays && p.daysOnMarket < filters.minDays) return false;
