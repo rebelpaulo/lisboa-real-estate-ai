@@ -1,0 +1,25 @@
+{
+  "data": "2026-02-20T11:01:01.525Z",
+  "site": "vendajudicial.pt",
+  "total": 2,
+  "imoveis": [
+    {
+      "titulo": "2350 Temos apara venda por negociação particular Prédio misto com 79.600 m2 sito em Sapal Chão, descrito na CRP de Castro Marim sob o nº 803 e inscrit",
+      "preco": 680000,
+      "preco_formatado": "€680,000",
+      "area": 79600,
+      "localizacao": "Castro Marim",
+      "referencia": "2350",
+      "descricao": "2350 Temos apara venda por negociação particular Prédio misto com 79.600 m2 sito em Sapal Chão, descrito na CRP de Castro Marim sob o nº 803 e inscrito na respectiva matriz rustica sob o artigo 53º secção \"AF e na respectiva matriz predial urbana sob o artigo 3426º, da freguesia de Castro Marim. Valor minimo de venda 680.000,00€ Aceitamos propostas de valor inferior devendo de ser devidamente fun"
+    },
+    {
+      "titulo": "IMÓVEL EM PONTE SOR",
+      "preco": 950000,
+      "preco_formatado": "€950,000",
+      "area": 1665,
+      "localizacao": "Ponte de Sor",
+      "referencia": "2025",
+      "descricao": "IMÓVEL EM PONTE SOR Maio 21, 2025 Excelente imóvel com 1.665 m2 sw ára coberta, inserido em um lote de terreno com 9.443 m2, muito bem localizado na antiga zona industrial de Ponte de Sor, perto da Av. da Liberdade e com bons acessos, aqui podem ser instalados vários espaços nomeadamente, restauração, discoteca, bar, eventos, ou várias outras actividades empresariais. Ocupa um quarteirão, tem q"
+    }
+  ]
+}

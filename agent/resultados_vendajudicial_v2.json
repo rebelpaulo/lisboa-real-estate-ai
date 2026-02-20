@@ -1,0 +1,115 @@
+{
+  "data": "2026-02-20T11:02:02.315Z",
+  "site": "vendajudicial.pt",
+  "total": 12,
+  "imoveis": [
+    {
+      "titulo": "N/ref: 2350 Temos apara venda por negociação particular Prédio misto com 79.600 m2 sito em Sapal Chão, descrito na CRP de Castro Marim sob o nº 803 e ",
+      "preco": 680000,
+      "preco_formatado": "€680,000",
+      "area": 300,
+      "localizacao": "CASTRO MARIM",
+      "referencia": "2350",
+      "descricao": "das pelas letras A e B, sendo a fração B, a que é o objeto de venda, com área bruta privativa total de 300,00 m²,... SAIBA MAIS PREDIO MISTO EM CASTRO MARIM Junho 9, 2025 N/ref: 2350 Temos apara venda por negociação particular Prédio misto com 79.600 m2 sito em Sapal Chão, descrito na CRP de Cast"
+    },
+    {
+      "titulo": "Excelente imóvel com 1.665 m2 sw ára coberta, inserido em um lote de terreno com 9.443 m2, muito bem localizado na antiga zona industrial de Ponte de ",
+      "preco": 950000,
+      "preco_formatado": "€950,000",
+      "area": 1665,
+      "localizacao": "Ponte de Sor",
+      "referencia": "2340",
+      "descricao": "Excelente imóvel com 1.665 m2 sw ára coberta, inserido em um lote de terreno com 9.443 m2, muito bem localizado na antiga zona industrial de Ponte de Sor, perto da Av. da Liberdade e com bons acessos, aqui podem ser instalados vários espaços nomeadamente, restauração, discoteca, bar, eventos, ou vár"
+    },
+    {
+      "titulo": "para venda por negociação particular um Prédio urbano destinado a habitação, sito na Rua Tristão da Cunha, nº 27, na localidade e freguesia de Olhalvo",
+      "preco": 170000,
+      "preco_formatado": "€170,000",
+      "area": 388,
+      "localizacao": "Olhalvo",
+      "referencia": "486",
+      "descricao": "para venda por negociação particular um Prédio urbano destinado a habitação, sito na Rua Tristão da Cunha, nº 27, na localidade e freguesia de Olhalvo, descrito na CRP de Alenquer sob a descrição nº 1728/20071017 da aludida freguesia e inscrito na matriz urbana da mesma sob o artigo 245º. Área total"
+    },
+    {
+      "titulo": "N/ref: 486 Prédio urbano, composto por rés do chão e 1º andar destinado a albergaria e logradouro, sito na Rua Fonte do Concelho, antiga estalagem Gal",
+      "preco": 178500,
+      "preco_formatado": "€178,500",
+      "area": null,
+      "localizacao": "SOUSEL",
+      "referencia": "486",
+      "descricao": "Aceitamos propostas de valor inferior devidamente justificadas Pode consultar... SAIBA MAIS ESTALAGEM GALINHOLA – SOUSEL Novembro 21, 2024 N/ref: 486 Prédio urbano, composto por rés do chão e 1º andar destinado a albergaria e logradouro, sito na Rua Fonte do Concelho, antiga estalagem Galinhola"
+    },
+    {
+      "titulo": "N/ref: 2277 Temos para venda por negociação particular um Estacionamento coberto, sito na Urbanização Quinta da Nora Lote 8, fracção \"C\", descrito na ",
+      "preco": 29926,
+      "preco_formatado": "€29,926",
+      "area": null,
+      "localizacao": "",
+      "referencia": "2277",
+      "descricao": "a... SAIBA MAIS ESTACIONAMENTO COBERTO – MONTEMOR O NOVO Outubro 6, 2023 N/ref: 2277 Temos para venda por negociação particular um Estacionamento coberto, sito na Urbanização Quinta da Nora Lote 8, fracção \"C\", descrito na CRP de Montemor-o-Novo sob o registo nº 1821, e inscrito na matriz predial"
+    },
+    {
+      "titulo": "N/ref: 2164 Temos para venda por negociação particular Prédio Urbano sito na Rua de Santo António Lote 11, A-Dos-Ralhados, freguesia de Santa Maria e ",
+      "preco": 869594.14,
+      "preco_formatado": "€869,594.14",
+      "area": 59,
+      "localizacao": "SINTRA",
+      "referencia": "2164",
+      "descricao": "A MAIS ARMAZÉM EM A-DOS-RALHADOS – SINTRA Outubro 26, 2021 N/ref: 2164 Temos para venda por negociação particular Prédio Urbano sito na Rua de Santo António Lote 11, A-Dos-Ralhados, freguesia de Santa Maria e São Miguel descrito na 2ª CRP de Sintra sob a ficha 1811 e inscrito na matriz predial urb"
+    },
+    {
+      "titulo": "164 Temos para venda por negociação particular Prédio Urbano sito na Rua de Santo António Lote 11, A-Dos-Ralhados, freguesia de Santa Maria e São Migu",
+      "preco": 417472.03,
+      "preco_formatado": "€417,472.03",
+      "area": 59,
+      "localizacao": "Sintra",
+      "referencia": "2157",
+      "descricao": "164 Temos para venda por negociação particular Prédio Urbano sito na Rua de Santo António Lote 11, A-Dos-Ralhados, freguesia de Santa Maria e São Miguel descrito na 2ª CRP de Sintra sob a ficha 1811 e inscrito na matriz predial urbana sob o art.º 9378 Prédio constituido por 3 armazens 2 no r/c e um"
+    },
+    {
+      "titulo": "António Lote 11, A-Dos-Ralhados, freguesia de Santa Maria e São Miguel descrito na 2ª CRP de Sintra sob a ficha 1811 e inscrito na matriz predial urba",
+      "preco": 251997.58,
+      "preco_formatado": "€251,997.58",
+      "area": 59,
+      "localizacao": "Sintra",
+      "referencia": "2157",
+      "descricao": "António Lote 11, A-Dos-Ralhados, freguesia de Santa Maria e São Miguel descrito na 2ª CRP de Sintra sob a ficha 1811 e inscrito na matriz predial urbana sob o art.º 9378 Prédio constituido por 3 armazens 2 no r/c e um na C/V destinados a armazéns e actividade industrial, Área total do lote 2 059 m2"
+    },
+    {
+      "titulo": "N/ref: 2157 Temos para venda judicial por negociação particular dois predios rusticos sitos em Alpiarça; Prédio rústico, em Várzea Larga, com 27.960 m",
+      "preco": 125000,
+      "preco_formatado": "€125,000",
+      "area": 645,
+      "localizacao": "",
+      "referencia": "2157",
+      "descricao": "cupado Armazém R/C 1, com 645 m2 valor patrimonial de 251.997,58€ encontra-se arrendado valor... SAIBA MAIS DOIS TERRENOS AGRICOLAS EM ALPIARÇA Outubro 11, 2021 N/ref: 2157 Temos para venda judicial por negociação particular dois predios rusticos sitos em Alpiarça; Prédio rústico, em Várzea Larga"
+    },
+    {
+      "titulo": "N/ref: 2143 Temos para venda por negociação particular Prédio rústico, com 6.500 m2,  composto por pinhal, sito em Crato na freguesia e concelho de Al",
+      "preco": 13000,
+      "preco_formatado": "€13,000",
+      "area": 6500,
+      "localizacao": "",
+      "referencia": "2143",
+      "descricao": "atenção que existem vários acontecimentos que podem ditar um desfecho diverso do expectável, a saber: a)Exercício do direito de remissão; b)Exercício do... SAIBA MAIS PRÉDIO RUSTICO EM ALMEIDA Agosto 23, 2021 N/ref: 2143 Temos para venda por negociação particular Prédio rústico, com 6.500 m2, c"
+    },
+    {
+      "titulo": "n/ref: 1766  2-Prédio urbano -  Rua de Santa Margarida, , o em Arrabal, freguesia de Arrabal, na , concelho de Leiria, descrito na CRP de Leiria sob o",
+      "preco": 24900,
+      "preco_formatado": "€24,900",
+      "area": 400,
+      "localizacao": "Leiria",
+      "referencia": "1766",
+      "descricao": "Julho 23, 2019 n/ref: 1766 2-Prédio urbano - Rua de Santa Margarida, , o em Arrabal, freguesia de Arrabal, na , concelho de Leiria, descrito na CRP de Leiria sob o nº 1224, inscrito na matriz sob o artigo 1896 3- Prédio urbano sito em Hortinhas freguesia de Arrabal, concelho de Leiria, descrito"
+    },
+    {
+      "titulo": "n/ref: 1530 Temos para venda por negociação particular Um meio do predio urbano sito na freguesia e concelho de Ilhavo na Rua de Aveiro n.º 31 em Quin",
+      "preco": 179897.88,
+      "preco_formatado": "€179,897.88",
+      "area": 1147,
+      "localizacao": "Aveiro",
+      "referencia": "1530",
+      "descricao": ". SAIBA MAIS QUINTÃS – ILHAVO Junho 11, 2019 n/ref: 1530 Temos para venda por negociação particular Um meio do predio urbano sito na freguesia e concelho de Ilhavo na Rua de Aveiro n.º 31 em Quintâs, descrito na CRP de Ilhavo sob o nº 3780 e inscrito na matriz sob o artigo 247 anterior 499 da dit"
+    }
+  ]
+}

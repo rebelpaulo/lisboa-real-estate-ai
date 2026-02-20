@@ -1,0 +1,61 @@
+{
+  "data": "2026-02-20T13:47:12.031Z",
+  "resultados": [
+    {
+      "site": "century21",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "zome",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "predimed",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "iad",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "safti",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "exp",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "jll",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "savills",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "castelhana",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "portadafrente",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "engelvoelkers",
+      "imoveis": [],
+      "sucesso": false
+    }
+  ],
+  "total": 0
+}

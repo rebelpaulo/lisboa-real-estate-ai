@@ -1,0 +1,138 @@
+{
+  "data": "2026-02-20T11:05:56.219Z",
+  "total_com_preco": 12,
+  "total_sem_preco": 1,
+  "imoveis": [
+    {
+      "titulo": "N/ref: 2350 Temos apara venda por negociação particular Prédio misto com 79.600 m2 sito em Sapal Chão, descrito na CRP de Castro Marim sob o nº 803 e ",
+      "preco": 680000,
+      "preco_formatado": "€680,000",
+      "area": 300,
+      "localizacao": "CASTRO MARIM",
+      "referencia": "2350",
+      "fonte": "vendajudicial.pt",
+      "url": "https://vendajudicial.pt/bens-imoveis/"
+    },
+    {
+      "titulo": "Excelente imóvel com 1.665 m2 sw ára coberta, inserido em um lote de terreno com 9.443 m2, muito bem localizado na antiga zona industrial de Ponte de ",
+      "preco": 950000,
+      "preco_formatado": "€950,000",
+      "area": 1665,
+      "localizacao": "Ponte de Sor",
+      "referencia": "2340",
+      "fonte": "vendajudicial.pt",
+      "url": "https://vendajudicial.pt/bens-imoveis/"
+    },
+    {
+      "titulo": "para venda por negociação particular um Prédio urbano destinado a habitação, sito na Rua Tristão da Cunha, nº 27, na localidade e freguesia de Olhalvo",
+      "preco": 170000,
+      "preco_formatado": "€170,000",
+      "area": 388,
+      "localizacao": "Olhalvo",
+      "referencia": "486",
+      "fonte": "vendajudicial.pt",
+      "url": "https://vendajudicial.pt/bens-imoveis/"
+    },
+    {
+      "titulo": "N/ref: 486 Prédio urbano, composto por rés do chão e 1º andar destinado a albergaria e logradouro, sito na Rua Fonte do Concelho, antiga estalagem Gal",
+      "preco": 178500,
+      "preco_formatado": "€178,500",
+      "area": null,
+      "localizacao": "SOUSEL",
+      "referencia": "486",
+      "fonte": "vendajudicial.pt",
+      "url": "https://vendajudicial.pt/bens-imoveis/"
+    },
+    {
+      "titulo": "N/ref: 2277 Temos para venda por negociação particular um Estacionamento coberto, sito na Urbanização Quinta da Nora Lote 8, fracção \"C\", descrito na ",
+      "preco": 29926,
+      "preco_formatado": "€29,926",
+      "area": null,
+      "localizacao": "",
+      "referencia": "2277",
+      "fonte": "vendajudicial.pt",
+      "url": "https://vendajudicial.pt/bens-imoveis/"
+    },
+    {
+      "titulo": "N/ref: 2164 Temos para venda por negociação particular Prédio Urbano sito na Rua de Santo António Lote 11, A-Dos-Ralhados, freguesia de Santa Maria e ",
+      "preco": 869594.14,
+      "preco_formatado": "€869,594.14",
+      "area": 59,
+      "localizacao": "SINTRA",
+      "referencia": "2164",
+      "fonte": "vendajudicial.pt",
+      "url": "https://vendajudicial.pt/bens-imoveis/"
+    },
+    {
+      "titulo": "164 Temos para venda por negociação particular Prédio Urbano sito na Rua de Santo António Lote 11, A-Dos-Ralhados, freguesia de Santa Maria e São Migu",
+      "preco": 417472.03,
+      "preco_formatado": "€417,472.03",
+      "area": 59,
+      "localizacao": "Sintra",
+      "referencia": "2157",
+      "fonte": "vendajudicial.pt",
+      "url": "https://vendajudicial.pt/bens-imoveis/"
+    },
+    {
+      "titulo": "António Lote 11, A-Dos-Ralhados, freguesia de Santa Maria e São Miguel descrito na 2ª CRP de Sintra sob a ficha 1811 e inscrito na matriz predial urba",
+      "preco": 251997.58,
+      "preco_formatado": "€251,997.58",
+      "area": 59,
+      "localizacao": "Sintra",
+      "referencia": "2157",
+      "fonte": "vendajudicial.pt",
+      "url": "https://vendajudicial.pt/bens-imoveis/"
+    },
+    {
+      "titulo": "N/ref: 2157 Temos para venda judicial por negociação particular dois predios rusticos sitos em Alpiarça; Prédio rústico, em Várzea Larga, com 27.960 m",
+      "preco": 125000,
+      "preco_formatado": "€125,000",
+      "area": 645,
+      "localizacao": "",
+      "referencia": "2157",
+      "fonte": "vendajudicial.pt",
+      "url": "https://vendajudicial.pt/bens-imoveis/"
+    },
+    {
+      "titulo": "N/ref: 2143 Temos para venda por negociação particular Prédio rústico, com 6.500 m2,  composto por pinhal, sito em Crato na freguesia e concelho de Al",
+      "preco": 13000,
+      "preco_formatado": "€13,000",
+      "area": 6500,
+      "localizacao": "",
+      "referencia": "2143",
+      "fonte": "vendajudicial.pt",
+      "url": "https://vendajudicial.pt/bens-imoveis/"
+    },
+    {
+      "titulo": "n/ref: 1766  2-Prédio urbano -  Rua de Santa Margarida, , o em Arrabal, freguesia de Arrabal, na , concelho de Leiria, descrito na CRP de Leiria sob o",
+      "preco": 24900,
+      "preco_formatado": "€24,900",
+      "area": 400,
+      "localizacao": "Leiria",
+      "referencia": "1766",
+      "fonte": "vendajudicial.pt",
+      "url": "https://vendajudicial.pt/bens-imoveis/"
+    },
+    {
+      "titulo": "n/ref: 1530 Temos para venda por negociação particular Um meio do predio urbano sito na freguesia e concelho de Ilhavo na Rua de Aveiro n.º 31 em Quin",
+      "preco": 179897.88,
+      "preco_formatado": "€179,897.88",
+      "area": 1147,
+      "localizacao": "Aveiro",
+      "referencia": "1530",
+      "fonte": "vendajudicial.pt",
+      "url": "https://vendajudicial.pt/bens-imoveis/"
+    }
+  ],
+  "leiloes_sem_preco": [
+    {
+      "titulo": "PORTUGAL  -  OLIVEIRA DO HOSPITAL\nImóveis destinados à indústria de confeção\nVER DETALHE\n\nIrsil - Si",
+      "localizacao": "",
+      "descricao": "PORTUGAL  -  OLIVEIRA DO HOSPITAL\nImóveis destinados à indústria de confeção\nVER DETALHE\n\nIrsil - Silva & Irmãos , Lda.\nLocal da Venda:  Rua D. Josefina da Fonseca, n.º 15 - OLIVEIRA DO HOSPITAL\nConta",
+      "preco": null,
+      "preco_formatado": "N/A (protegido)",
+      "fonte": "avaliberica.pt",
+      "url": "https://www.avaliberica.pt/results-page.php?t=2"
+    }
+  ]
+}

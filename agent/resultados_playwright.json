@@ -1,0 +1,26 @@
+{
+  "data": "2026-02-20T21:48:34Z",
+  "resultados": [
+    {
+      "site": "century21",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "zome",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "idealista",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "olx",
+      "imoveis": [],
+      "sucesso": false
+    }
+  ],
+  "total": 0
+}

@@ -1,0 +1,21 @@
+{
+  "data": "2026-02-20T10:56:45.976Z",
+  "total": 0,
+  "sites": 2,
+  "resultados": [
+    {
+      "site": "avaliberica.pt - Leilões",
+      "url": "https://www.avaliberica.pt/results-page.php?t=2",
+      "titulo": "Avalibérica - Auctions & Sales",
+      "imoveis": [],
+      "status": "ok"
+    },
+    {
+      "site": "vendajudicial.pt - Bens Imóveis",
+      "url": "https://vendajudicial.pt/bens-imoveis/",
+      "titulo": "Bens Imóveis – Paterfamilia – Vendas Judiciais e Extrajudiciais",
+      "imoveis": [],
+      "status": "ok"
+    }
+  ]
+}

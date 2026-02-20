@@ -1,0 +1,260 @@
+{
+  "data": "2026-02-20T13:35:45.024Z",
+  "resultados": [
+    {
+      "site": "idealista",
+      "imoveis": [],
+      "sucesso": false
+    },
+    {
+      "site": "supercasa",
+      "imoveis": [
+        {
+          "titulo": "Apartamento T4 na Rua Leopoldo de Almeida, Lumiar, Lisboa",
+          "preco": 749000,
+          "tipologia": "T4",
+          "area": 197,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t4-lisboa/i2117080"
+        },
+        {
+          "titulo": "Apartamento T2+1 Duplex na Rua Aliança Operária, Alcântara, Lisboa",
+          "preco": 600000,
+          "tipologia": "T2",
+          "area": 152,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t2-lisboa/i2130610"
+        },
+        {
+          "titulo": "Apartamento T2 em LISBOA",
+          "preco": 447500,
+          "tipologia": "T2",
+          "area": 68,
+          "localizacao": "LISBOA",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t2-lisboa/i2019377"
+        },
+        {
+          "titulo": "Apartamento T2 na Rua Doutor João de Barros, Benfica, Lisboa",
+          "preco": 449900,
+          "tipologia": "T2",
+          "area": 89,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t2-lisboa/i2126034"
+        },
+        {
+          "titulo": "Apartamento T3, em Remodelação Total situado em Benfica, *Oferta da Escritura.",
+          "preco": 599900,
+          "tipologia": "T3",
+          "area": 102,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t3-lisboa/i2034525"
+        },
+        {
+          "titulo": "Apartamento T3 na Rua Carolina Michaelis de Vasconcelos, Benfica, Lisboa",
+          "preco": 529900,
+          "tipologia": "T3",
+          "area": 93,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t3-lisboa/i2013072"
+        },
+        {
+          "titulo": "Apartamento T3 na Rua da República da Bolívia, Benfica, Lisboa",
+          "preco": 599900,
+          "tipologia": "T3",
+          "area": 101,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t3-lisboa/i2138680"
+        },
+        {
+          "titulo": "Apartamento T3 na Rua de Santa Marinha, São Vicente, Lisboa",
+          "preco": 650000,
+          "tipologia": "T3",
+          "area": 113,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t3-lisboa/i2086384"
+        },
+        {
+          "titulo": "Apartamento T2+1 na Rua Cecílio de Sousa, Santo António, Lisboa",
+          "preco": 720000,
+          "tipologia": "T2",
+          "area": 70,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t2-lisboa/i2056250"
+        },
+        {
+          "titulo": "Apartamento T4 na Rua do Ferragial, Misericórdia, Lisboa",
+          "preco": 1750000,
+          "tipologia": "T4",
+          "area": 234,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-arrendamento-apartamento-t4-lisboa/i1702994"
+        },
+        {
+          "titulo": "Apartamento T2 na Rua Doutor Almeida Amaral, Arroios, Lisboa",
+          "preco": 548000,
+          "tipologia": "T2",
+          "area": 87,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t2-lisboa/i1751996"
+        },
+        {
+          "titulo": "Apartamento T2 na Rua de São Lázaro, Santa Maria Maior, Lisboa",
+          "preco": 370000,
+          "tipologia": "T2",
+          "area": 64,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t2-lisboa/i1702844"
+        },
+        {
+          "titulo": "Apartamento T1 em Penha de França, Lisboa",
+          "preco": 325000,
+          "tipologia": "T1",
+          "area": 56,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t1-lisboa/i2087056"
+        },
+        {
+          "titulo": "Apartamento T2 na Rua Joaquim Casimiro, Estrela, Lisboa",
+          "preco": 485000,
+          "tipologia": "T2",
+          "area": 82,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t2-lisboa/i2132742"
+        },
+        {
+          "titulo": "Apartamento T1+1 em Escadinhas da Oliveira, Santa Maria Maior, Lisboa",
+          "preco": 430000,
+          "tipologia": "T1",
+          "area": 72,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t1-lisboa/i2016443"
+        },
+        {
+          "titulo": "Apartamento T2 na Rua dos Sapateiros, Santa Maria Maior, Lisboa",
+          "preco": 550000,
+          "tipologia": "T2",
+          "area": 70,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t2-lisboa/i2023834"
+        },
+        {
+          "titulo": "Apartamento T9 na Rua de Santa Marta, Santo António, Lisboa",
+          "preco": 1300000,
+          "tipologia": "T9",
+          "area": 290,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t9-lisboa/i1485676"
+        },
+        {
+          "titulo": "Moradia T5 na Rua das Pedras Negras, Santa Maria Maior, Lisboa",
+          "preco": 7900000,
+          "tipologia": "T5",
+          "area": 875,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-moradia-t5-lisboa/i1400779"
+        },
+        {
+          "titulo": "Apartamento T5 na Avenida Miguel Torga, Campolide, Lisboa",
+          "preco": 2200000,
+          "tipologia": "T5",
+          "area": 336,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t5-lisboa/i1285033"
+        },
+        {
+          "titulo": "T4 Rua Zaire, Arroios, terraço e arrecadação",
+          "preco": 650000,
+          "tipologia": "T4",
+          "area": 135,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t4-lisboa/i1441285"
+        },
+        {
+          "titulo": "Apartamento T2 na Rua António Nobre, São Domingos de Benfica, Lisboa",
+          "preco": 449900,
+          "tipologia": "T2",
+          "area": 83,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t2-lisboa/i2126174"
+        },
+        {
+          "titulo": "Apartamento T3 com varanda e estacionamento, no Lumia, Lisboa",
+          "preco": 2670000,
+          "tipologia": "T3",
+          "area": 208,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t3-lisboa/i2106927"
+        },
+        {
+          "titulo": "Apartamento T3 em Benfica, Lisboa",
+          "preco": 499900,
+          "tipologia": "T3",
+          "area": 101,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t3-lisboa/i2082032"
+        },
+        {
+          "titulo": "Apartamento T2 em Calçada da Quintinha, Campolide, Lisboa",
+          "preco": 930000,
+          "tipologia": "T2",
+          "area": 241,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t2-lisboa/i1945368"
+        },
+        {
+          "titulo": "Apartamento T3 Duplex em Parque das Nações, Lisboa",
+          "preco": 1290000,
+          "tipologia": "T3",
+          "area": 170,
+          "localizacao": "Lisboa",
+          "fonte": "supercasa",
+          "link": "https://supercasa.pt/venda-apartamento-t3-lisboa/i1938488"
+        }
+      ],
+      "sucesso": true
+    },
+    {
+      "site": "olx",
+      "imoveis": [],
+      "sucesso": false,
+      "erro": "page.waitForTimeout is not a function"
+    },
+    {
+      "site": "remax",
+      "imoveis": [],
+      "sucesso": false,
+      "erro": "page.waitForTimeout is not a function"
+    },
+    {
+      "site": "era",
+      "imoveis": [],
+      "sucesso": false,
+      "erro": "page.waitForTimeout is not a function"
+    }
+  ],
+  "total": 25
+}

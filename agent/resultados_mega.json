@@ -1,0 +1,645 @@
+{
+  "data": "2026-02-20T13:31:23.965Z",
+  "total": 71,
+  "imoveis": [
+    {
+      "titulo": "Adicionado há 7 dias\n...\n\n1 / 19\n\n350 000 €\n4890 €/m²\n\nApartamento T2 para Remodelação em Benfica.",
+      "preco": 193500,
+      "tipologia": "T2",
+      "area": 57,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-remodelacao-em-benfica-ID1hTEP"
+    },
+    {
+      "titulo": "240 000 €\n7117 €/m²\n\nT1 Remodelado na Madragoa\n\nCalçada do Castelo Picão, Santos-o-Velho - Madragoa,",
+      "preco": 240000,
+      "tipologia": "T1",
+      "area": 72,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/t1-remodelado-na-madragoa-ID1hSrQ"
+    },
+    {
+      "titulo": "750 000 €\n5208 €/m²\n\nApartamento T3+1 com Logradouro em Sete Rios\n\nRua Doutor António Martins, Sete",
+      "preco": 750000,
+      "tipologia": "T3",
+      "area": 144,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-1-com-logradouro-em-sete-rios-ID1hSlk"
+    },
+    {
+      "titulo": "524 500 €\n6171 €/m²\n\nApartamento T5 para venda\n\nPátio Gomes Pereira - Avenida 24 de Julho, Santos-o-",
+      "preco": 524500,
+      "tipologia": "T5",
+      "area": 85,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t5-para-venda-ID1hWyR"
+    },
+    {
+      "titulo": "649 000 €\n5643 €/m²\n\nApartamento T4 para venda\n\nPátio Gomes Pereira - Avenida 24 de Julho, Santos-o-",
+      "preco": 649000,
+      "tipologia": "T4",
+      "area": 115,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t4-para-venda-ID1hWyO"
+    },
+    {
+      "titulo": "1 200 000 €\n5430 €/m²\n\nPrédio com garagem, na Almirante Reis, Lisboa\n\nAlameda - Praça do Chile - Alm",
+      "preco": 1200000,
+      "tipologia": "T9",
+      "area": 221,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/predio-com-garagem-na-almirante-reis-lisboa-ID1g1KN"
+    },
+    {
+      "titulo": "1 100 000 €\n6875 €/m²\n\nApartamento T3+1 com garagem, junto ao Chiado, Lisboa\n\nBairro Alto, Misericór",
+      "preco": 1100000,
+      "tipologia": "T3",
+      "area": 160,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-1-com-garagem-junto-ao-chiado-lisboa-ID1gD6K"
+    },
+    {
+      "titulo": "680 000 €\n8831 €/m²\n\nApartamento T1 na Avenida da Liberdade em Lisboa\n\nPraça da Alegria, Santo Antón",
+      "preco": 680000,
+      "tipologia": "T1",
+      "area": 77,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-na-avenida-da-liberdade-em-lisboa-ID1ghee"
+    },
+    {
+      "titulo": "1 675 000 €\n10 030 €/m²\n\nApartamento T3 em condomínio com piscina na Lapa, Lisboa\n\nPrazeres, Estrela",
+      "preco": 1675000,
+      "tipologia": "T3",
+      "area": 167,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-em-condominio-com-piscina-na-lapa-lisboa-ID1eKXm"
+    },
+    {
+      "titulo": "379 900 €\n8083 €/m²\n\nApartamento T2 mobilado, em São Vicente, Lisboa\n\nSão Vicente de Fora, São Vicen",
+      "preco": 379900,
+      "tipologia": "T2",
+      "area": 47,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-mobilado-em-sao-vicente-lisboa-ID1hH0f"
+    },
+    {
+      "titulo": "1 740 000 €\n6046 €/m²\n\nApartamento T3 Duplex\n\nRua João de Freitas Branco, Alto dos Moinhos, São Domi",
+      "preco": 1740000,
+      "tipologia": "T3",
+      "area": 8,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-duplex-ID1fIih"
+    },
+    {
+      "titulo": "945 000 €\n5250 €/m²\n\nPrédio com habitação e loja em Lisboa\n\nCentro, Campo de Ourique, Lisboa, Lisboa",
+      "preco": 945000,
+      "tipologia": "T9",
+      "area": 180,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/predio-com-habitacao-e-loja-em-lisboa-ID1hlxl"
+    },
+    {
+      "titulo": "430 000 €\n9149 €/m²\n\nApartamento T1, novo, na Rua de São Bento, Lisboa\n\nPríncipe Real - São Bento, M",
+      "preco": 430000,
+      "tipologia": "T1",
+      "area": 47,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-novo-na-rua-de-sao-bento-lisboa-ID1gEZb"
+    },
+    {
+      "titulo": "529 900 €\n5888 €/m²\n\nT3 Moderno c/ Suite e Varanda | Remodelado | Centro de São Domingos...\n\nEstrada",
+      "preco": 529900,
+      "tipologia": "T3",
+      "area": 90,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/t3-moderno-c-suite-e-varanda-remodelado-centro-de-sao-domingos-ID1gUGi"
+    },
+    {
+      "titulo": "630 000 €\n8630 €/m²\n\nApartamento T1, na Rua de São Bento, Lisboa\n\nPríncipe Real - São Bento, Miseric",
+      "preco": 630000,
+      "tipologia": "T1",
+      "area": 73,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-na-rua-de-sao-bento-lisboa-ID1gkIR"
+    },
+    {
+      "titulo": "355 000 €\n5462 €/m²\n\nLoft T0+1 com afetação comercial, na Sé, em Lisboa\n\nSé, Santa Maria Maior, Lisb",
+      "preco": 355000,
+      "tipologia": "T0",
+      "area": 65,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/loft-t0-1-com-afetacao-comercial-na-se-em-lisboa-ID1g1JW"
+    },
+    {
+      "titulo": "1 050 000 €\n2593 €/m²\n\nPrédio em São Vicente\n\nSão Vicente de Fora, São Vicente, Lisboa, Lisboa\n\nTipo",
+      "preco": 1050000,
+      "tipologia": "T9",
+      "area": 405,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/predio-em-sao-vicente-ID1dHJD"
+    },
+    {
+      "titulo": "645 000 €\n5202 €/m²\n\nApartamento T2, remodelado, na Estrela, em Lisboa\n\nLapa, Estrela, Lisboa, Lisbo",
+      "preco": 645000,
+      "tipologia": "T2",
+      "area": 124,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-remodelado-na-estrela-em-lisboa-ID1hunz"
+    },
+    {
+      "titulo": "465 000 €\n7500 €/m²\n\nApartamento T1, com terraços, no Chiado, em Lisboa\n\nBairro Alto, Misericórdia,",
+      "preco": 465000,
+      "tipologia": "T1",
+      "area": 62,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-com-terracos-no-chiado-em-lisboa-ID1hv8T"
+    },
+    {
+      "titulo": "1 550 000 €\n7277 €/m²\n\nApartamento duplex T3+1, na Misericórdia, Lisboa\n\nBairro Alto, Misericórdia,",
+      "preco": 1550000,
+      "tipologia": "T3",
+      "area": 213,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-duplex-t3-1-na-misericordia-lisboa-ID1gJsv"
+    },
+    {
+      "titulo": "790 000 €\n10 972 €/m²\n\nApartamento T1 mobilado com varanda em Lisboa\n\nJunqueira, Alcântara, Lisboa,",
+      "preco": 790000,
+      "tipologia": "T1",
+      "area": 72,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-com-varanda-em-lisboa-ID1ghQU"
+    },
+    {
+      "titulo": "1 900 000 €\n9223 €/m²\n\nApartamento T4, com terraço e garagem, Estrela, Lisboa\n\nPrazeres, Estrela, Li",
+      "preco": 1900000,
+      "tipologia": "T4",
+      "area": 206,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t4-com-terraco-e-garagem-estrela-lisboa-ID1eZ2L"
+    },
+    {
+      "titulo": "385 000 €\n7051 €/m²\n\nApartamento T1+1 na Calçada do Menino Deus, Lisboa\n\nSantiago, Santa Maria Maior",
+      "preco": 385000,
+      "tipologia": "T1",
+      "area": 6,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-1-na-calcada-do-menino-deus-lisboa-ID1hACc"
+    },
+    {
+      "titulo": "1 750 000 €\n7479 €/m²\n\nApartamento T4 com garagem, no Chiado, em Lisboa\n\nChiado - Pç. de Camões, Mis",
+      "preco": 1750000,
+      "tipologia": "T4",
+      "area": 234,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t4-com-garagem-no-chiado-em-lisboa-ID1eF2o"
+    },
+    {
+      "titulo": "805 000 €\n7667 €/m²\n\nApartamento T2 + 1 - Venda - Empreendimento Infante Residences - Vi...\n\nLapa, E",
+      "preco": 805000,
+      "tipologia": "T2",
+      "area": 105,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-1-venda-empreendimento-infante-residences-vi-ID1dw8x"
+    },
+    {
+      "titulo": "925 000 €\n8810 €/m²\n\nApartamento T2 + 1 - Venda - Empreendimento Infante Residences - Vi...\n\nLapa, E",
+      "preco": 925000,
+      "tipologia": "T2",
+      "area": 105,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-1-venda-empreendimento-infante-residences-vi-ID1dw7Y"
+    },
+    {
+      "titulo": "975 000 €\n5909 €/m²\n\nApartamento T3 totalmente remodelado, na Lapa, Lisboa\n\nSantos-o-Velho - Madrago",
+      "preco": 975000,
+      "tipologia": "T3",
+      "area": 165,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-totalmente-remodelado-na-lapa-lisboa-ID1c2II"
+    },
+    {
+      "titulo": "1 290 000 €\n5708 €/m²\n\nApartamento T4 com garagem, na Graça, Lisboa\n\nCentro, Penha de França, Lisboa",
+      "preco": 1290000,
+      "tipologia": "T4",
+      "area": 226,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t4-com-garagem-na-graca-lisboa-ID1eYoo"
+    },
+    {
+      "titulo": "1 180 000 €\n14 750 €/m²\n\nApartamento T1 no Marquês de Pombal, em Lisboa\n\nAv. da Liberdade - Marquês",
+      "preco": 1180000,
+      "tipologia": "T1",
+      "area": 80,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-no-marques-de-pombal-em-lisboa-ID15P6X"
+    },
+    {
+      "titulo": "480 000 €\n7018 €/m²\n\nApartamento T1+1, na Calçada do Menino Deus, Lisboa\n\nSantiago, Santa Maria Maio",
+      "preco": 480000,
+      "tipologia": "T1",
+      "area": 4,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-1-na-calcada-do-menino-deus-lisboa-ID1eaI6"
+    },
+    {
+      "titulo": "1 400 000 €\n7778 €/m²\n\nPrédio nunca habitafo em Alfama, Lisboa\n\nBeco dos Beguinhos, São Vicente de F",
+      "preco": 1400000,
+      "tipologia": "T9",
+      "area": 180,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/predio-nunca-habitafo-em-alfama-lisboa-ID1eUdd"
+    },
+    {
+      "titulo": "1 590 000 €\n9755 €/m²\n\nApartamento T2 com garagem, na Avenida da Liberdade\n\nAv. da Liberdade - Marqu",
+      "preco": 1590000,
+      "tipologia": "T2",
+      "area": 163,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-garagem-na-avenida-da-liberdade-ID1fuBW"
+    },
+    {
+      "titulo": "1 990 000 €\n6589 €/m²\n\nApartamento T4 junto à Avenida da Liberdade, em Lisboa\n\nCampo de Santana - Sa",
+      "preco": 1990000,
+      "tipologia": "T4",
+      "area": 302,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t4-junto-a-avenida-da-liberdade-em-lisboa-ID1gNxH"
+    },
+    {
+      "titulo": "690 000 €\n5847 €/m²\n\nApartamento T2 com varanda, no Chiado, em Lisboa\n\nBairro Alto, Misericórdia, Li",
+      "preco": 690000,
+      "tipologia": "T2",
+      "area": 118,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-varanda-no-chiado-em-lisboa-ID1bU45"
+    },
+    {
+      "titulo": "1 890 000 €\n13 217 €/m²\n\nApartamento T3 na Avenida da Liberdade, Lisboa\n\nAv. da Liberdade - Marquês",
+      "preco": 1890000,
+      "tipologia": "T3",
+      "area": 143,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-na-avenida-da-liberdade-lisboa-ID1hDte"
+    },
+    {
+      "titulo": "449 000 €\n6701 €/m²\n\nApartamento T2, em São Vicente, Lisboa\n\nSão Vicente de Fora, São Vicente, Lisbo",
+      "preco": 449000,
+      "tipologia": "T2",
+      "area": 67,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-em-sao-vicente-lisboa-ID1geCj"
+    },
+    {
+      "titulo": "900 000 €\n8257 €/m²\n\nApartamento T1, com garagem e jardim, em Lisboa\n\nAv. da Liberdade - Marquês de",
+      "preco": 900000,
+      "tipologia": "T1",
+      "area": 109,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-com-garagem-e-jardim-em-lisboa-ID1f7ro"
+    },
+    {
+      "titulo": "455 000 €\n7459 €/m²\n\nApartamento T0+1 na Calçada da Pampulha, em Lisboa\n\nLapa, Estrela, Lisboa, Lisb",
+      "preco": 455000,
+      "tipologia": "T0",
+      "area": 61,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t0-1-na-calcada-da-pampulha-em-lisboa-ID1eaI5"
+    },
+    {
+      "titulo": "1 995 000 €\n4683 €/m²\n\nApartamento T5+2 duplex com vista rio, em Alfama, Lisboa\n\nAlfama, Santa Maria",
+      "preco": 1995000,
+      "tipologia": "T5",
+      "area": 426,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t5-2-duplex-com-vista-rio-em-alfama-lisboa-ID1fIrn"
+    },
+    {
+      "titulo": "524 500 €6171 €/m²Apartamento T5 para vendaPátio Gomes Pereira - Avenida 24 de Julho, Santos-o-Velho",
+      "preco": 524500,
+      "tipologia": "T5",
+      "area": 85,
+      "localizacao": "Lisboa",
+      "fonte": "imovirtual",
+      "link": "https://www.imovirtual.com/hpr/pt/anuncio/apartamento-t5-para-venda-ID1hWyR"
+    },
+    {
+      "titulo": "T2 na Boavista em condomínio com Health Club e segurança 24h\nApartamento T2\nLordelo do Ouro e Massar",
+      "preco": 480000,
+      "tipologia": "T2",
+      "area": 107,
+      "localizacao": "Porto",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064997&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t2-porto-lordelo-do-ouro-e-massarelos-9b9e6190-f537-11f0-b7cf-060000000058.html?g3pid=1064997"
+    },
+    {
+      "titulo": "T3 Urbanização Colinas do Cruzeiro\nApartamento T3\nColinas do Cruzeiro, Odivelas, Distrito de Lisboa",
+      "preco": 565000,
+      "tipologia": "T3",
+      "area": 118,
+      "localizacao": "Odivelas",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064987&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t3-odivelas-colinas-do-cruzeiro-b8b21219-0b5a-11f1-8ef4-060000000058.html?g3pid=1064987"
+    },
+    {
+      "titulo": "Apartamento T1\nAvenidas Novas (Nossa Senhora de Fátima), Lisboa\nRenovado · 77m²\nCOMPRAR\n530.000 €\nAp",
+      "preco": 530000,
+      "tipologia": "T1",
+      "area": 77,
+      "localizacao": "Lisboa",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1062862&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-lisboa-avenidas-novas-(nossa-senhora-de-fatima)-53d03897-4a7e-4740-bb8c-1a567e8f5551.html?g3pid=1062862"
+    },
+    {
+      "titulo": "Apartamento T2\nZona Ribeirinha, Portimão\nRenovado · 90m²\nCOM GARAGEM\nCOMPRAR\n309.000 €\nApartamento T",
+      "preco": 309000,
+      "tipologia": "T2",
+      "area": 90,
+      "localizacao": "porto",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064253&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-portimao-zona-ribeirinha-b3a00bfa-3f7b-40cf-bfdd-5bebdf0522a1.html?g3pid=1064253"
+    },
+    {
+      "titulo": "Apartamento T2\nSanta Eulália, Albufeira e Olhos de Água\nUsado · 131m²\nCOMPRAR\n339.000 €\nApartamento",
+      "preco": 339000,
+      "tipologia": "T2",
+      "area": 131,
+      "localizacao": "Lisboa",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064344&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-albufeira-e-olhos-de-agua-santa-eulalia-064e9b95-ec1f-4d29-8805-ad263a817369.html?g3pid=1064344"
+    },
+    {
+      "titulo": "Apartamento T3\nAmoreira, Alcabideche, Cascais\nNovo · 249m²\nCOM GARAGEM\nCOMPRAR\n1.325.000 €\nEste magn",
+      "preco": 1325000,
+      "tipologia": "T3",
+      "area": 249,
+      "localizacao": "Cascais",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1060094&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-cascais-alcabideche-amoreira-ced3fe96-e8fa-4744-9e59-db5c7827efc0.html?g3pid=1060094"
+    },
+    {
+      "titulo": "Apartamento T2\nParque das Nações, Lisboa\nUsado\nCOM GARAGEM\nCOMPRAR\n726.000 €\nDescubra este apartamen",
+      "preco": 726000,
+      "tipologia": "T2",
+      "area": 86,
+      "localizacao": "Lisboa",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064567&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-lisboa-parque-das-nacoes-c8253e67-7608-4ba3-bc2c-06314037e513.html?g3pid=1064567"
+    },
+    {
+      "titulo": "Apartamento T3+1\nSão Luís, Faro (Sé e São Pedro)\nRecuperado · 104m²\nCOMPRAR\n360.000 €\nApartamento T4",
+      "preco": 360000,
+      "tipologia": "T3",
+      "area": 104,
+      "localizacao": "Faro",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1062084&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-faro-(se-e-sao-pedro)-sao-luis-d2140897-e0b4-41d4-9274-389b023814e1.html?g3pid=1062084"
+    },
+    {
+      "titulo": "Apartamento T2\nSerra do Casal de Cambra, Queluz e Belas, Sintra\nUsado · 80m²\nCOM GARAGEM\nCOMPRAR\n370",
+      "preco": 370000,
+      "tipologia": "T2",
+      "area": 80,
+      "localizacao": "Sintra",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1062939&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-sintra-queluz-e-belas-serra-do-casal-de-cambra-082c154e-ba01-42ad-9978-1a757322fde1.html?g3pid=1062939"
+    },
+    {
+      "titulo": "Apartamento T3 em Corroios Centro - Excelente Oportunidade de Investimento\nApartamento T3\nCorroios,",
+      "preco": 180000,
+      "tipologia": "T3",
+      "area": 93,
+      "localizacao": "Lisboa",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064958&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t3-seixal-corroios-32ffe828-0be5-11f1-a463-060000000052.html?g3pid=1064958"
+    },
+    {
+      "titulo": "Estudio em BORBA completamente Renovado\nEstúdio T0\nBorba (Matriz), Distrito de Évora\nUsado · 20m²\nCO",
+      "preco": 44000,
+      "tipologia": "T0",
+      "area": 20,
+      "localizacao": "Lisboa",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064961&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-estudio-t0-borba-(matriz)-473d635d-f86c-11f0-a463-060000000052.html?g3pid=1064961"
+    },
+    {
+      "titulo": "Apartamento T3\nColinas do Cruzeiro, Odivelas, Distrito de Lisboa\nUsado · 119m²\nCOM GARAGEM\nCOMPRAR\n5",
+      "preco": 565000,
+      "tipologia": "T3",
+      "area": 119,
+      "localizacao": "Odivelas",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064937&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t3-odivelas-colinas-do-cruzeiro-6daa04be-0dca-11f1-a463-060000000052.html?g3pid=1064937"
+    },
+    {
+      "titulo": "Apartamento T1+1\nMonte Gordo, Vila Real de Santo António, Distrito de Faro\nEm construção · 39m²\nVIST",
+      "preco": 280000,
+      "tipologia": "T1",
+      "area": 39,
+      "localizacao": "Faro",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064936&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t1-vila-real-de-santo-antonio-monte-gordo-59818a42-6d31-11f0-b3d3-060000000057.html?g3pid=1064936"
+    },
+    {
+      "titulo": "Apartamento\nMonte Gordo, Vila Real de Santo António, Distrito de Faro\nEm projecto · 55m²\nCOMPRAR\n390",
+      "preco": 390000,
+      "tipologia": "T2",
+      "area": 55,
+      "localizacao": "Faro",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064934&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-vila-real-de-santo-antonio-monte-gordo-60796b26-083f-11f1-b3d3-060000000057.html?g3pid=1064934"
+    },
+    {
+      "titulo": "Apartamento T0\nBaixa, Bonfim, Porto, Distrito do Porto\nEm construção · 36m²\nCOM GARAGEM\nCOMPRAR\n220.",
+      "preco": 220000,
+      "tipologia": "T0",
+      "area": 36,
+      "localizacao": "Porto",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064914&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t0-porto-bonfim-baixa-09dc8c2c-e219-11ee-ad97-060000000056.html?g3pid=1064914"
+    },
+    {
+      "titulo": "Apartamento T1\nBaixa, Bonfim, Porto, Distrito do Porto\nEm construção · 52m²\nCOM GARAGEM\nCOMPRAR\n337.",
+      "preco": 337500,
+      "tipologia": "T1",
+      "area": 52,
+      "localizacao": "Porto",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064915&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t1-porto-bonfim-baixa-7c6d956d-e5e2-11ee-ad97-060000000056.html?g3pid=1064915"
+    },
+    {
+      "titulo": "Apartamento T1\nBaixa, Bonfim, Porto, Distrito do Porto\nEm construção · 52m²\nCOM GARAGEM\nCOMPRAR\n350.",
+      "preco": 350000,
+      "tipologia": "T1",
+      "area": 52,
+      "localizacao": "Porto",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064920&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t1-porto-bonfim-baixa-8ebeee7a-e5e2-11ee-ad97-060000000056.html?g3pid=1064920"
+    },
+    {
+      "titulo": "Apartamento T3\nBaixa, Bonfim, Porto, Distrito do Porto\nEm construção · 116m²\nCOM GARAGEM\nCOMPRAR\n585",
+      "preco": 585000,
+      "tipologia": "T3",
+      "area": 116,
+      "localizacao": "Porto",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064916&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t3-porto-bonfim-baixa-dd24f342-e845-11ee-bf55-060000000056.html?g3pid=1064916"
+    },
+    {
+      "titulo": "Apartamento T3\nBaixa, Bonfim, Porto, Distrito do Porto\nEm construção · 116m²\nCOM GARAGEM\nCOMPRAR\n575",
+      "preco": 575000,
+      "tipologia": "T3",
+      "area": 116,
+      "localizacao": "Porto",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064917&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t3-porto-bonfim-baixa-03b7bdeb-e846-11ee-bf55-060000000056.html?g3pid=1064917"
+    },
+    {
+      "titulo": "Apartamento T2\nBaixa, Bonfim, Porto, Distrito do Porto\nEm construção · 72m²\nCOM GARAGEM\nCOMPRAR\n405.",
+      "preco": 405000,
+      "tipologia": "T2",
+      "area": 72,
+      "localizacao": "Porto",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064918&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t2-porto-bonfim-baixa-b73ee76c-e85a-11ee-bf55-060000000056.html?g3pid=1064918"
+    },
+    {
+      "titulo": "Apartamento T2\nBaixa, Bonfim, Porto, Distrito do Porto\nEm construção · 72m²\nCOM GARAGEM\nCOMPRAR\n410.",
+      "preco": 410000,
+      "tipologia": "T2",
+      "area": 72,
+      "localizacao": "Porto",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064919&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t2-porto-bonfim-baixa-c4942798-e85a-11ee-bf55-060000000056.html?g3pid=1064919"
+    },
+    {
+      "titulo": "Apartamento T2\nVilamoura, Quarteira, Loulé, Distrito de Faro\nEm construção · 114m²\nCOM GARAGEM\nCOMPR",
+      "preco": 950000,
+      "tipologia": "T2",
+      "area": 114,
+      "localizacao": "Faro",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064894&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t2-loule-quarteira-vilamoura-4316f7f0-3051-4c29-969c-fbe3a0b77a9a.html?g3pid=1064894"
+    },
+    {
+      "titulo": "Apartamento T3\nVilamoura, Quarteira, Loulé, Distrito de Faro\nEm construção · 162m²\nCOM GARAGEM\nCOMPR",
+      "preco": 1325000,
+      "tipologia": "T3",
+      "area": 162,
+      "localizacao": "Faro",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064895&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t3-loule-quarteira-vilamoura-e228f04b-5f0f-408c-9e7c-0abc90295451.html?g3pid=1064895"
+    },
+    {
+      "titulo": "Apartamento T2\nVilamoura, Quarteira, Loulé, Distrito de Faro\nEm construção · 114m²\nCOM GARAGEM\nCOMPR",
+      "preco": 1100000,
+      "tipologia": "T2",
+      "area": 114,
+      "localizacao": "Faro",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064892&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t2-loule-quarteira-vilamoura-a300fc6f-a049-11f0-9e61-060000000056.html?g3pid=1064892"
+    },
+    {
+      "titulo": "Apartamento T2\nVilamoura, Quarteira, Loulé, Distrito de Faro\nEm construção · 114m²\nCOM GARAGEM\nCOMPR",
+      "preco": 1200000,
+      "tipologia": "T2",
+      "area": 114,
+      "localizacao": "Faro",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064893&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t2-loule-quarteira-vilamoura-33a7e286-835c-465b-9ec9-9dc3c70f0d85.html?g3pid=1064893"
+    },
+    {
+      "titulo": "Apartamento T3 com Jardim Exclusivo e Possibilidade de Piscina!\nApartamento T3\nAlvide (Cascais), Cas",
+      "preco": 520000,
+      "tipologia": "T3",
+      "area": 100,
+      "localizacao": "Cascais",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064890&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t3-cascais-e-estoril-alvide-(cascais)-554e030e-0daf-11f1-a463-060000000052.html?g3pid=1064890"
+    },
+    {
+      "titulo": "Apartamento T2 Duplex\nEriceira, Mafra, Distrito de Lisboa\nUsado · 90m²\nCOM GARAGEM\nCOMPRAR\n477.600 €",
+      "preco": 477600,
+      "tipologia": "T2",
+      "area": 90,
+      "localizacao": "Lisboa",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064882&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t2-mafra-ericeira-6fee7184-08f9-11f1-b3d3-060000000057.html?g3pid=1064882"
+    },
+    {
+      "titulo": "Apartamento T3\nJardim Constantino (São Jorge de Arroios), Lisboa, Distrito de Lisboa\nRecuperado · 11",
+      "preco": 775000,
+      "tipologia": "T3",
+      "area": 116,
+      "localizacao": "Lisboa",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064880&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t3-lisboa-jardim-constantino-(sao-jorge-de-arroios)-73cd4591-d7aa-11f0-b3d3-060000000057.html?g3pid=1064880"
+    },
+    {
+      "titulo": "Apartamento T3\nCentro, Mafra, Distrito de Lisboa\nNovo · 126m²\nCOM GARAGEM\nCOMPRAR\n485.000 €\nA MAIS V",
+      "preco": 485000,
+      "tipologia": "T3",
+      "area": 126,
+      "localizacao": "Lisboa",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064860&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t3-mafra-centro-14066853-73a5-11f0-8add-060000000054.html?g3pid=1064860"
+    },
+    {
+      "titulo": "Apartamento T3\nEriceira, Mafra, Distrito de Lisboa\nNovo · 123m²\nCOM GARAGEM\nCOMPRAR\n600.000 €\nFantás",
+      "preco": 600000,
+      "tipologia": "T3",
+      "area": 123,
+      "localizacao": "Lisboa",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064808&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t3-mafra-ericeira-c7ec260e-72d6-11f0-9e61-060000000056.html?g3pid=1064808"
+    },
+    {
+      "titulo": "Apartamento T1\nCentro (Cascais), Cascais e Estoril, Distrito de Lisboa\nRenovado · 40m²\nCOMPRAR\n665.0",
+      "preco": 665000,
+      "tipologia": "T1",
+      "area": 40,
+      "localizacao": "Cascais",
+      "fonte": "casasapo",
+      "link": "https://gespub.casa.sapo.pt/v3/webinterface/client/counter.aspx?c=1&p=1064810&s=0&ps=1&SA=0&TW=0&MCA=1&BU=1&l=https://casa.sapo.pt/comprar-apartamento-t1-cascais-e-estoril-centro-(cascais)-60c7b51e-5733-11f0-9e61-060000000056.html?g3pid=1064810"
+    }
+  ]
+}
