@@ -345,7 +345,7 @@ const AdvancedFilters = ({ filters, setFilters, onApply }) => {
 // ============================================
 // COMPONENTE: Property Card Moderno
 // ============================================
-const PropertyCard = ({ property, viewMode }) => {
+const PropertyCard = ({ property, viewMode, onView }) => {
   const categoryColors = {
     'A': colors.catA,
     'B': colors.catB,
@@ -415,7 +415,7 @@ const PropertyCard = ({ property, viewMode }) => {
           </div>
         </div>
         <div className="row-actions">
-          <button className="action-btn"><Eye size={18} /></button>
+          <button className="action-btn" onClick={() => onView(property)}><Eye size={18} /></button>
           <button className="action-btn"><Heart size={18} /></button>
           <button className="action-btn"><Share2 size={18} /></button>
         </div>
@@ -498,7 +498,7 @@ const PropertyCard = ({ property, viewMode }) => {
               </span>
             )}
           </div>
-          <button className="card-view-btn">
+          <button className="card-view-btn" onClick={() => onView(property)}>
             <Eye size={16} />
             Ver
           </button>
@@ -569,6 +569,7 @@ const AnalyticsPanel = () => {
 function App() {
   const [activeTab, setActiveTab] = useState('opportunities');
   const [viewMode, setViewMode] = useState('grid');
+  const [selectedProperty, setSelectedProperty] = useState(null);
   const [filters, setFilters] = useState({
     category: '',
     minScore: 0,
@@ -642,6 +643,7 @@ function App() {
                   key={property.id} 
                   property={property}
                   viewMode={viewMode}
+                  onView={setSelectedProperty}
                 />
               ))}
             </div>
@@ -666,6 +668,11 @@ function App() {
           </div>
         )}
       </main>
+      
+      <PropertyModal 
+        property={selectedProperty} 
+        onClose={() => setSelectedProperty(null)} 
+      />
     </div>
   );
 }
