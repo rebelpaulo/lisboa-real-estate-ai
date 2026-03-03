@@ -1,5 +1,5 @@
 {
-  "data_geracao": "2026-03-03T05:00:54.336107",
+  "data_geracao": "2026-03-03T17:00:55.671796",
   "total_analisado": 5,
   "total_curadoria": 2,
   "oportunidades": [
@@ -99,7 +99,7 @@
       "status": "Due Diligence",
       "sintese_executiva": "Prédio devoluto em Alcântara com potencial de fracionamento. Preço/m² €2020 vs €2800 zona. LX Factory a 300m. Alto potencial valorização.",
       "notas": "",
-      "data_analise": "2026-03-03 05:00:54.335936",
+      "data_analise": "2026-03-03 17:00:55.671633",
       "analista": "Jarbas AI"
     },
     {
@@ -205,7 +205,7 @@
       "status": "Observação",
       "sintese_executiva": "T2 em Belém estagnado há 195 dias com 3 reduções (11% total). Preço/m² €3350 vs média €3800. Potencial de valorização €400/m² após renovação. Zona turística com liquidez garantida.",
       "notas": "",
-      "data_analise": "2026-03-03 05:00:54.335905",
+      "data_analise": "2026-03-03 17:00:55.671605",
       "analista": "Jarbas AI"
     }
   ]
